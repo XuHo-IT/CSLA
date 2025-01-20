@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\CSLA\\Start_CSLA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E6C2E46-218E-4DED-B909-58F72238F41C}|Start_CSLA\\Start_CSLA.csproj|d:\\csla\\start_csla\\start_csla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E6C2E46-218E-4DED-B909-58F72238F41C}|Start_CSLA\\Start_CSLA.csproj|solutionrelative:start_csla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E6C2E46-218E-4DED-B909-58F72238F41C}|Start_CSLA\\Start_CSLA.csproj|d:\\csla\\start_csla\\start_csla\\bo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E6C2E46-218E-4DED-B909-58F72238F41C}|Start_CSLA\\Start_CSLA.csproj|solutionrelative:start_csla\\bo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6C2E46-218E-4DED-B909-58F72238F41C}|Start_CSLA\\Start_CSLA.csproj|d:\\csla\\start_csla\\start_csla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6C2E46-218E-4DED-B909-58F72238F41C}|Start_CSLA\\Start_CSLA.csproj|solutionrelative:start_csla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BO.cs",
               "DocumentMoniker": "D:\\CSLA\\Start_CSLA\\Start_CSLA\\BO.cs",
               "RelativeDocumentMoniker": "Start_CSLA\\BO.cs",
               "ToolTip": "D:\\CSLA\\Start_CSLA\\Start_CSLA\\BO.cs",
               "RelativeToolTip": "Start_CSLA\\BO.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T07:28:22.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CSLA\\Start_CSLA\\Start_CSLA\\Program.cs",
               "RelativeDocumentMoniker": "Start_CSLA\\Program.cs",
               "ToolTip": "D:\\CSLA\\Start_CSLA\\Start_CSLA\\Program.cs",
               "RelativeToolTip": "Start_CSLA\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswB0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T07:22:28.837Z",
               "EditorCaption": ""

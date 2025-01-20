@@ -33,6 +33,5 @@ namespace csla_demo
             pdfDocument.SaveAs(outputPath);
             Console.WriteLine($"PDF generated and saved to {outputPath}");
         }
-
     }
 }
